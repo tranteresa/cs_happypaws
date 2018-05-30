@@ -23,20 +23,20 @@ Read more about this project [here](http://teresatran.co/cs-happypaws.html).
 * [Github](https://github.com/)
 
 ## Logo
-![logo](https://github.com/tranteresa/happypaws/blob/master/readme_assets/logo.png)
+![logo](https://github.com/tranteresa/cs_happypaws/blob/master/readme_assets/logo.png)
 
 
 ## Screenshots
 
-![logo](https://github.com/tranteresa/happypaws/blob/master/readme_assets/feature_01.png)
+![feature_01](https://github.com/tranteresa/cs_happypaws/blob/master/readme_assets/feature_01.png)
 
-![logo](https://github.com/tranteresa/happypaws/blob/master/readme_assets/feature_02.png)
+![feature_02](https://github.com/tranteresa/cs_happypaws/blob/master/readme_assets/feature_02.png)
 
-![logo](https://github.com/tranteresa/happypaws/blob/master/readme_assets/feature_03.png)
+![feature_03](https://github.com/tranteresa/cs_happypaws/blob/master/readme_assets/feature_03.png)
 
-![logo](https://github.com/tranteresa/happypaws/blob/master/readme_assets/feature_04.png)
+![feature_04](https://github.com/tranteresa/cs_happypaws/blob/master/readme_assets/feature_04.png)
 
-![logo](https://github.com/tranteresa/happypaws/blob/master/readme_assets/feature_05.png)
+![feature_05](https://github.com/tranteresa/cs_happypaws/blob/master/readme_assets/feature_05.png)
 
 
 
@@ -49,7 +49,7 @@ Read more about this project [here](http://teresatran.co/cs-happypaws.html).
 * **Teresa Tran**
 
 ## Resources
-* [Bloc.io] (https://www.bloc.io/?utm_campaign=search_bloc_brand&utm_adgroup=blockio---desktop-exact&utm_content=desktop&utm_term=bloc-io_exact&utm_source=adwords&utm_medium=cpc&gclid=EAIaIQobChMIorS7sISt2wIVV7jACh1BcA_KEAAYASAAEgIPFPD_BwE)
+* [Bloc.io](https://www.bloc.io/?utm_campaign=search_bloc_brand&utm_adgroup=blockio---desktop-exact&utm_content=desktop&utm_term=bloc-io_exact&utm_source=adwords&utm_medium=cpc&gclid=EAIaIQobChMIorS7sISt2wIVV7jACh1BcA_KEAAYASAAEgIPFPD_BwE)
 * [w3schools](https://www.w3schools.com/)
 * [Mozilla Developer Network](https://developer.mozilla.org/en-US/)
  
