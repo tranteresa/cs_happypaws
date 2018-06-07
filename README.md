@@ -41,8 +41,8 @@ Read more about this project [here](http://teresatran.co/cs-happypaws.html).
 
 
 ## Demo
-* [MARVEL DEMO](https://marvelapp.com/dc595f9)
-* [FLINTO DEMO](https://goo.gl/RWfVxg)
+* [Marvel Demo](https://marvelapp.com/dc595f9)
+* [Flinto Demo](https://goo.gl/RWfVxg)
   - Download free iOS [Flinto](https://itunes.apple.com/us/app/flinto/id972238373?mt=8) Viewer App and open Flinto prototype 
 
 ## Authors
